@@ -90,7 +90,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NN5Gf1JLnYd9SCWDaQ_V-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;HQIC-based feature selection&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#dae8fc;gradientColor=#CCFFFF;gradientDirection=east;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="NN5Gf1JLnYd9SCWDaQ_V-6" vertex="1">
-          <mxGeometry x="100" y="160" width="200" height="40" as="geometry" />
+          <mxGeometry x="100" y="160" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
