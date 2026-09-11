@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UEyHoXa_2w6cAu-TjjhC-24" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Fatigue life prediction&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;and model evaluation&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=10.5;fontColor=default;fillColor=#dae8fc;gradientColor=#CCFFFF;gradientDirection=east;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="460" y="770" width="200" height="50" as="geometry" />
+          <mxGeometry x="460" y="770" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UEyHoXa_2w6cAu-TjjhC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="UEyHoXa_2w6cAu-TjjhC-23" target="UEyHoXa_2w6cAu-TjjhC-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -66,7 +66,7 @@
           <mxGeometry x="420" y="620" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UEyHoXa_2w6cAu-TjjhC-23" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Trained HQ-AdaBoost&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=10.5;fontColor=default;fillColor=#dae8fc;gradientColor=#CCFFFF;gradientDirection=east;shadow=1;strokeWidth=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="700" width="240" height="40" as="geometry" />
+          <mxGeometry x="440" y="690" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UEyHoXa_2w6cAu-TjjhC-42" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;HQ-AdaBoost model training&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=#CCFFFF;gradientDirection=east;strokeWidth=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="380" width="160" height="40" as="geometry" />
